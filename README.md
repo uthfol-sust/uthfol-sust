@@ -1,6 +1,3 @@
-👋 Hi, I’m Uthpol Ghosh
+Hi, I'm Uthpol Ghosh!👋
 
-<div>
-  About me
 
-</div>
